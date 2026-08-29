@@ -1,0 +1,7 @@
+## Version 0.1.0: Initial Release
+
+- Initial release of arb0r.
+- Added the assets for the four main trees: Grover, Aspen, Rowan, and Sakura, including all of their respective variants.
+- Added Dawn to the initial release.
+- Included the new, restyled versions of all trees.
+- Added `LICENSE.md`, which is expected to be followed when using the included assets.
