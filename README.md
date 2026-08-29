@@ -1,7 +1,7 @@
 <div align="center">
 <h1>arb0r</h1>
-<em>Version 0.1.0</em>
 </div>
+
 arb0r is the repository that stores all in-house assets used by [gr0ve](https://github.com/gr0ve-bca/gr0ve). The assets stored here are always the latest versions used inside gr0ve. Assets are first deployed to arb0r before entering the application.
 
 ## What's Here
@@ -22,4 +22,5 @@ This repository is maintained by Arjun Yuvaraj, the founder of gr0ve. For questi
 
 ---
 
-_This is arb0r, the collection of hand-grown assets, and a part of the gr0ve family._
+
+*This is arb0r, Version 0.1.0, the collection of hand-grown assets, and a part of the gr0ve family.*
