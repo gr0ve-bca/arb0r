@@ -22,5 +22,4 @@ This repository is maintained by Arjun Yuvaraj, the founder of gr0ve. For questi
 
 ---
 
-
-*This is arb0r, Version 0.1.0, the collection of hand-grown assets, and a part of the gr0ve family.*
+_This is arb0r, Version 0.2.0, the collection of hand-grown assets, and a part of the gr0ve family._
