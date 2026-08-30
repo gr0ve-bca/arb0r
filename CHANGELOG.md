@@ -11,3 +11,4 @@
 - Added three new trees: Abies, Cedite, and Ash.
 - Added a new, unseen variant of these trees pixel, as well as their distorted forms
 - Beta release of the `index.html`
+- Version 0.2.1: Minor patch with naming convention, and site filters
