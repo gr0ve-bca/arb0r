@@ -23,3 +23,4 @@
 ## Version 0.4.0: Branding
 
 - Restructuring for branding purposes
+- Removed deployed site

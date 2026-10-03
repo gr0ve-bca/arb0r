@@ -8,8 +8,6 @@ arb0r is the repository that stores all in-house assets used by [gr0ve](https://
 
 This repository contains the assets and media used throughout gr0ve. Its primary purpose is to serve as a central collection of the latest gr0ve assets.
 
-To make browsing easier, arb0r also has an actively deployed site for searching through the repository. However, the site is not the main focus of arb0r and may be changed or fixed regularly.
-
 ## Usage
 
 Anyone is free to use the assets in this repository for any reason. For detailed guidelines, please read [LICENSE.md](LICENSE.md).
