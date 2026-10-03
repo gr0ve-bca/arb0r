@@ -19,3 +19,7 @@
 - Added a bunch of new trees, story and field day trees
 - Field day trees had a minor redesign to keep branding consistent
 - The story trees are group by chapter, not episode
+
+## Version 0.4.0: Branding
+
+- Restructuring for branding purposes
