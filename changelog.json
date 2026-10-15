@@ -1,6 +1,48 @@
 {
   "releases": [
     {
+      "version": "3.0.0",
+      "title": "The Architecture & System Rework",
+      "short_title": "A modular architecture, adaptive dashboard, and stronger security",
+      "updates": [
+        {
+          "icon": "smartphone",
+          "title": "Adaptive Dashboard & Mini Landing Page",
+          "description": "When signed out on desktop, the dashboard transforms into an interactive landing page with inline login, live schedules, and lunch cards."
+        },
+        {
+          "icon": "palette",
+          "title": "System Theme Matching",
+          "description": "Gr0ve now automatically matches your operating system's light or dark mode across macOS, Windows, iOS, and Android."
+        },
+        {
+          "icon": "shield",
+          "title": "Passwordless Email Authentication",
+          "description": "Sign in using your BCA email and a one-time passcode delivered directly to your inbox."
+        },
+        {
+          "icon": "zap",
+          "title": "Complete Architecture Rework",
+          "description": "Replaced the monolithic dashboard with a modular, single-responsibility architecture, eliminating dead code and redundant dependencies."
+        },
+        {
+          "icon": "clock",
+          "title": "Web Compiler Optimization",
+          "description": "Removed cyclic imports and cleaned up authentication and home-view dependencies to prevent Dart Development Compiler module-loading issues and improve hot restarts."
+        },
+        {
+          "icon": "shield",
+          "title": "Hardened Data Security",
+          "description": "Sensitive data endpoints are no longer polled without an authenticated session. Signing out clears proxy tokens, memory caches, and navigation state."
+        },
+        {
+          "icon": "palette",
+          "title": "Refined Interface & New Branding",
+          "description": "Modernized buttons, inputs, dialogs, cards, and navigation with consistent styling across light and dark themes. Introduced a new minimalist logo without gradients."
+        }
+      ]
+    },
+    {
       "version": "2.5.0",
       "title": "Welcome Back, BCA!",
       "short_title": "The new school year, all in one place",
