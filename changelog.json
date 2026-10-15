@@ -1,7 +1,7 @@
 {
   "releases": [
     {
-      "version": "3.0.0",
+      "version": "v3.0.0",
       "title": "The Architecture & System Rework",
       "short_title": "A modular architecture, adaptive dashboard, and stronger security",
       "updates": [
