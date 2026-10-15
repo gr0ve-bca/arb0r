@@ -1,0 +1,377 @@
+{
+  "releases": [
+    {
+      "version": "2.5.0",
+      "title": "Welcome Back, BCA!",
+      "short_title": "The new school year, all in one place",
+      "updates": [
+        {
+          "icon": "calendar",
+          "title": "BCA Dashboard",
+          "description": "A brand-new centralized hub for your BCA needs. Everything you use daily, now in one place."
+        },
+        {
+          "icon": "smartphone",
+          "title": "Progressive Web App",
+          "description": "Gr0ve is now available as a Progressive Web App. Install it directly on your devices for a native-like experience."
+        },
+        {
+          "icon": "zap",
+          "title": "Minor Patches",
+          "description": "Various small improvements and bug fixes throughout the app for a smoother experience."
+        }
+      ]
+    },
+    {
+      "version": "2.4.0",
+      "title": "Stability & Foundation",
+      "short_title": "A stronger foundation for what's next",
+      "updates": [
+        {
+          "icon": "zap",
+          "title": "Navigation Fixes",
+          "description": "Fixed an issue where certain click patterns could lead to a blank page."
+        },
+        {
+          "icon": "smartphone",
+          "title": "Keyboard Improvements",
+          "description": "The keyboard now dismisses properly across pages, preventing it from getting in the way."
+        },
+        {
+          "icon": "calendar",
+          "title": "Field Day Patches",
+          "description": "Various fixes and improvements to the Field Day system for a more reliable experience."
+        },
+        {
+          "icon": "sparkles",
+          "title": "BCA Dashboard Preview",
+          "description": "Work began on the BCA Dashboard, laying the groundwork for a new central hub."
+        }
+      ]
+    },
+    {
+      "version": "2.3.0",
+      "title": "The Journey Continues",
+      "short_title": "Chapter 2, Field Day, and hidden mysteries",
+      "updates": [
+        {
+          "icon": "game",
+          "title": "Chapter 2: The Open Shore",
+          "description": "Traverse the Open Shore and prepare for the crossing. The story continues."
+        },
+        {
+          "icon": "calendar",
+          "title": "Field Day Focus",
+          "description": "The BCA Field Day screen and events widget now support custom scheduling."
+        },
+        {
+          "icon": "shield",
+          "title": "Security Patches",
+          "description": "Fixed minor stability and session-token bugs in Firebase Authentication."
+        },
+        {
+          "icon": "sparkles",
+          "title": "Deep Waters",
+          "description": "Pay close attention to the deep waters. They say there are seven hidden orange fishes circling the Unnamed Tree..."
+        }
+      ]
+    },
+    {
+      "version": "2.2.1",
+      "title": "Smarter Teacher & Bus Updates",
+      "short_title": "Lighter updates and quieter notifications",
+      "updates": [
+        {
+          "icon": "teacher",
+          "title": "Smarter Teacher Updates",
+          "description": "Gr0ve checks for local changes before updating Firestore, keeping teacher updates lighter and more efficient."
+        },
+        {
+          "icon": "bus",
+          "title": "Smarter Bus Updates",
+          "description": "Bus updates check for local changes before touching Firestore, reducing unnecessary writes."
+        },
+        {
+          "icon": "zap",
+          "title": "Quieter Notifications",
+          "description": "Notifications can return without noisy repeats, making updates more reliable and less disruptive."
+        }
+      ]
+    },
+    {
+      "version": "2.2.0",
+      "title": "The Half Anniversary Update",
+      "short_title": "Reliable automation, new choices, and deeper mysteries",
+      "updates": [
+        {
+          "icon": "zap",
+          "title": "Meet Junior",
+          "description": "Junior is the automated system that runs bus and teacher scripts in the background to keep information up to date."
+        },
+        {
+          "icon": "bus",
+          "title": "Reliable Notifications",
+          "description": "A revamped notification system alerts you when bus or teacher statuses change."
+        },
+        {
+          "icon": "sparkles",
+          "title": "Fun & Serious Modes",
+          "description": "Fun Mode is off by default. Complete the changelog Easter egg to unlock the hidden Gr0ve story."
+        },
+        {
+          "icon": "game",
+          "title": "The Seed is Planted",
+          "description": "The soil shifts. Roots grow deeper into the dark. What was buried will not stay hidden forever. Are you ready to fly?"
+        }
+      ]
+    },
+    {
+      "version": "2.1.0",
+      "title": "Refined Controls & Recognition",
+      "short_title": "Admin improvements and detailed credits",
+      "updates": [
+        {
+          "icon": "user",
+          "title": "Admin Excellence",
+          "description": "A compact, reactive grid system makes managing teacher absences easier."
+        },
+        {
+          "icon": "user",
+          "title": "Detailed Credits",
+          "description": "A new credits page recognizes the icon designers and dedicated testers."
+        },
+        {
+          "icon": "shield",
+          "title": "Locked Personas",
+          "description": "Hidden counselor personas are gated and protected by the Grove Keeper."
+        },
+        {
+          "icon": "smartphone",
+          "title": "iOS Stability",
+          "description": "Under-the-hood fixes improve stability across Apple devices."
+        }
+      ]
+    },
+    {
+      "version": "2.0.0",
+      "title": "A Whole New Look & Feel",
+      "short_title": "A redesigned Gr0ve experience",
+      "updates": [
+        {
+          "icon": "clock",
+          "title": "Time-Adaptive Home",
+          "description": "The dashboard adapts its layout to the time of day, including morning, school hours, and evening."
+        },
+        {
+          "icon": "calendar",
+          "title": "Customizable Navigation",
+          "description": "Reorder and hide navigation tabs to personalize the app."
+        },
+        {
+          "icon": "calendar",
+          "title": "All-New Calendar",
+          "description": "A rebuilt calendar helps you track your schedule, events, and assignments."
+        },
+        {
+          "icon": "user",
+          "title": "Profile Pictures & More",
+          "description": "Personalize your account with avatars and discover hidden characters."
+        }
+      ]
+    },
+    {
+      "version": "1.4.5",
+      "title": "Maintenance & Polish",
+      "short_title": "Bus refresh fix and page refinements",
+      "updates": [
+        {
+          "icon": "bus",
+          "title": "Bus Refresh Fix",
+          "description": "Patched a bug in the bus refreshing system."
+        },
+        {
+          "icon": "palette",
+          "title": "Page Restyling",
+          "description": "Made minor styling improvements to the calendar and help pages."
+        }
+      ]
+    },
+    {
+      "version": "1.4.4",
+      "title": "Style & Refinement",
+      "short_title": "A more usable interface",
+      "updates": [
+        {
+          "icon": "palette",
+          "title": "App Restyling",
+          "description": "Restyled the app in response to user demand, making it easier to use."
+        },
+        {
+          "icon": "zap",
+          "title": "Minor Patches",
+          "description": "Applied small fixes to improve the overall experience."
+        }
+      ]
+    },
+    {
+      "version": "1.4.3",
+      "title": "Smart Notifications",
+      "short_title": "Intelligent bus arrival alerts",
+      "updates": [
+        {
+          "icon": "bus",
+          "title": "Bus Arrival Notifications",
+          "description": "Get notified when starred buses arrive, with automatic detection of minimum days and regular dismissal times."
+        },
+        {
+          "icon": "clock",
+          "title": "Schedule-Aware Bus Status",
+          "description": "Bus arrival status reflects the school schedule."
+        }
+      ]
+    },
+    {
+      "version": "1.4.0",
+      "title": "Events & Links",
+      "short_title": "Personal events and customizable quick links",
+      "updates": [
+        {
+          "icon": "calendar",
+          "title": "Calendar",
+          "description": "View BCA events and add personal events to your calendar."
+        },
+        {
+          "icon": "zap",
+          "title": "Quick Links Management",
+          "description": "Edit and reorder quick links to customize your experience."
+        }
+      ]
+    },
+    {
+      "version": "1.3.0",
+      "title": "Performance & Lunch",
+      "short_title": "Faster refreshes and a new Lunch page",
+      "updates": [
+        {
+          "icon": "zap",
+          "title": "Smarter Auto-Refresh",
+          "description": "Improved auto-refresh behavior across the app to keep information current without unnecessary reloads."
+        },
+        {
+          "icon": "utensils",
+          "title": "Lunch Page",
+          "description": "View today's menu alongside common allergens and detailed nutrition facts."
+        }
+      ]
+    },
+    {
+      "version": "1.2.1",
+      "title": "Quick Fix",
+      "short_title": "Fixed adding links",
+      "updates": [
+        {
+          "icon": "zap",
+          "title": "Quick Links Bug Fix",
+          "description": "Fixed an unexpected error that occurred when users attempted to add a link."
+        }
+      ]
+    },
+    {
+      "version": "1.2.0",
+      "title": "Security & Management",
+      "short_title": "Improved sign-in and Quick Links",
+      "updates": [
+        {
+          "icon": "shield",
+          "title": "Login System Overhaul",
+          "description": "Updated the login backend for faster and more secure sign-ins."
+        },
+        {
+          "icon": "zap",
+          "title": "Quick Links Management",
+          "description": "Add and remove favorite links directly in the app."
+        }
+      ]
+    },
+    {
+      "version": "1.1.3",
+      "title": "API Maintenance",
+      "short_title": "Fixed persistent loading",
+      "updates": [
+        {
+          "icon": "bus",
+          "title": "Bus Location API Fix",
+          "description": "Fixed a persistent loading issue caused by the API for the Bus Location Google Sheet."
+        }
+      ]
+    },
+    {
+      "version": "1.1.2",
+      "title": "Cross-Platform Polish",
+      "short_title": "Landing page and fetching fixes",
+      "updates": [
+        {
+          "icon": "palette",
+          "title": "Landing Page Restyle",
+          "description": "Restyled the landing page."
+        },
+        {
+          "icon": "smartphone",
+          "title": "Compatibility Fixes",
+          "description": "Fixed phone and web compatibility issues with data fetching."
+        }
+      ]
+    },
+    {
+      "version": "1.1.1",
+      "title": "Matching & Display",
+      "short_title": "Homepage and name-matching fixes",
+      "updates": [
+        {
+          "icon": "user",
+          "title": "Homepage",
+          "description": "Added a homepage to improve navigation."
+        },
+        {
+          "icon": "bus",
+          "title": "Teacher & Bus Name Matching",
+          "description": "Fixed edge cases with teacher and bus names to improve matching and display."
+        }
+      ]
+    },
+    {
+      "version": "1.0.1",
+      "title": "Favorites",
+      "short_title": "Star your favorite buses and teachers",
+      "updates": [
+        {
+          "icon": "user",
+          "title": "Starring",
+          "description": "Star favorite buses and teachers to keep them at the top of your lists."
+        }
+      ]
+    },
+    {
+      "version": "1.0.0",
+      "title": "The Dawn",
+      "short_title": "Gr0ve's first public release",
+      "updates": [
+        {
+          "icon": "bus",
+          "title": "Live Bus Locations",
+          "description": "Track live bus parking locations in real time."
+        },
+        {
+          "icon": "teacher",
+          "title": "Teacher Absences",
+          "description": "View teacher absences and class coverage at a glance."
+        },
+        {
+          "icon": "sparkles",
+          "title": "School Resources",
+          "description": "Access essential school resources in one place."
+        }
+      ]
+    }
+  ]
+}
